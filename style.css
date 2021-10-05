@@ -1,0 +1,15 @@
+body{
+    background-image: url("chihuahua-810789_1920-5c901437c9e77c0001ff0b4f.jpeg");
+    background-repeat: no-repeat;
+    background-color: paleturquoise;
+     position: relative; 
+    text-align: center;
+    font-size: 50px;
+    color:tomato;
+}   
+#ttt{
+    margin-top: 570px;
+}
+#aaaaa{
+    color: goldenrod;
+}
